@@ -1,0 +1,46 @@
+---PAGE 1---
+Souvik Singh Sardar+91-9800027756
+Master of Engineering souviksingh2@gmail.com
+Computer Science and Engineering linkedin.com/in/sssardar
+Jadavpur University, Kolkata github.com/HaxLast
+Education
+Degree Institute/Board Year
+M.E., CSE Jadavpur University, Kolkata 2024–2026
+B.Tech., CSE Ramkrishna Mahato Govt. Engg. College 2019–2023
+Higher Secondary Manbhum Victoria Institution, Purulia 2017–2019
+Projects
+•Project A: [ Low-Cost Mobile Sensor Network for Air Pollution Monitoring ]M.E. Thesis
+Tools: [ ESP32, Raspberry Pi, Air Quality Sensors, ESP-NOW, B.A.T.M.A.N. Mesh Routing ][ὑ7]
+◦Built a low-cost mobile sensor network to monitor PM2.5, PM10, and gas density without WiFi or cellular
+coverage.
+◦Used ESP-NOW, Raspberry Pi edge aggregation, and B.A.T.M.A.N. self-healing mesh routing for
+fault-tolerant data flow.
+•Project B: [ Food Expiration Prediction ]
+Tools: [ Gas Sensors, Microcontroller, IoT ]
+◦Designed an IoT device using gas sensors and a microcontroller to predict food shelf-life before spoilage.
+◦Monitored food freshness indicators to support early spoilage detection and reduce food waste.
+•Project C: [ AQI Fetcher Android Application ]
+Tools: [ Android, API Integration, Air Quality Data ][/github]
+◦Developed an Android app that fetches AQI values for user-selected locations.
+◦Implemented location-based data retrieval with a simple flow for quick air-quality lookup.
+Skills
+•Programming Languages: [ C, C++, HTML, CSS, SQL ]
+•Database Systems: [ MySQL ]
+•Cloud / Infrastructure: [ AWS EC2, S3, VPC, RDS, EBS, EFS, Cloud Fundamentals ]
+•Tools: [ VS Code, Blender, Unity, MS Office, Linux, Windows, ChatGPT, Stable Diffusion, Gemini ]
+•Subjects: [ IoT, Cloud Computing, Web Development, AI Fundamentals, Database Management System
+]
+Certifications
+•AWS Certified Cloud Practitioner, Amazon Web Services17 Jan 2024
+•SQL Master Class, Udemy
+•Mastering HTML5, Udemy
+•AI Intern, Capabl (Elite Techno Group)Aug 2021 - Sep 2021
+Languages
+•Bengali (Native)
+•English (Fluent)
+•Hindi (Fluent)
+Interests
+•Internet of Things
+•Problem Solving
+•Cloud Computing
+•Video games
